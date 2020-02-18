@@ -13,3 +13,5 @@
 командой pip install -r requirements.txt
 
 Запуск теста коммандой: python -m pytest -v --cov=tests  tests/test_pytest.py
+
+Запуск самой игры через game.py
