@@ -1,7 +1,3 @@
-LETTER = ""
-SECRET_WORD = ""
-GAMER_WORD = ""
-
 def letter_found(letter, secret_word, gamer_word):
 	for idx, symbol in enumerate(secret_word):
 		# print(idx, symbol)
